@@ -46,7 +46,7 @@
         "school":"Boston College",
         "degree":"B.A. Political Science",
         "graduated":"May 2010",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Minor in Latin American Studies"
       }
     ],
     "work":[
@@ -57,13 +57,13 @@
         "description":"Lead a team of Account Managers across Mumbai and Singapore to retain customers in our portfolio and drive revenue growth within those accounts."
       },
       {
-        "company":"Brightcove",
+        "company":"",
         "title":"Director of Sales Engineering, Asia",
         "years":"December 2018 - Present",
         "description":"Hire, coach and manage a team of Sales Engineers across offices in Mumbai and Singapore."
       },
       {
-        "company":"Brightcove",
+        "company":"",
         "title":"Technical Consultant, Asia",
         "years":"October 2017 - November 2018",
         "description":"Selected to relocate and fill an urgent need as the sole Sales Engineer for a team of 12 account managers operating across Asia. Supported both the Enterprise and Media business units."
