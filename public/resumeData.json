@@ -77,6 +77,10 @@
     ],
     "skills":[
       {
+        "name":"Leadership",
+        "level":"60%"
+      },
+      {
         "name":"HTML5",
         "level":"80%"
       },
