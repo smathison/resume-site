@@ -119,6 +119,12 @@
         "category":"A collection of sample customizations to the Brightcove web player",
         "image":"brightcove-player-customizations.jpg",
         "url":"https://solutions.brightcove.com/smathison/demos/"
+      },
+      {
+        "title":"Broadcast Asia Demo Booth Page",
+        "category":"A webpage used to demonstrate Brightcove functionality and highlight marquee customers during Broadcast Asia",
+        "image":"broadcast-asia.jpg",
+        "url":"https://solutions.brightcove.com/asia/"
       }
     ]
   },
