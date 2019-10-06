@@ -9,10 +9,10 @@
     "email": "mathisos1@gmail.com",
     "phone": "+65 9083 6523",
     "address":{
-      "street":"(Your Street)",
+      "street":"Bukit Timah Road",
       "city":"Singapore",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"Singapore",
+      "zip": "589645"
     },
     "website": "//www.scottmathison.info",
     "resumedownload":"//s3.amazonaws.com/scottmathison.info/RESUME+Scott+Mathison.pdf",
@@ -65,66 +65,42 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"CSS",
+        "level":"80%"
       },
       {
-        "name":"MongoDB",
+        "name":"JavaScript",
         "level":"80%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"90%"
+      },
+      {
+        "name":"Streaming Media",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       }
     ]
   },
