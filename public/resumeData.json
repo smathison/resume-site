@@ -109,10 +109,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Live Stream Generator",
+        "category":"A utility to create a live stream RTMP ingest point using Brightcove Live",
+        "image":"live-stream-generator.jpg",
+        "url":"https://solutions.brightcove.com/smathison/createLiveJob.html"
+      },
+      {
+        "title":"Brightcove Player Customization Samples",
+        "category":"A collection of sample customizations to the Brightcove web player",
+        "image":"brightcove-player-customizations.jpg",
+        "url":"https://solutions.brightcove.com/smathison/demos/"
       }
     ]
   },
