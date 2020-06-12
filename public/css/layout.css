@@ -686,7 +686,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'opensans-regular', sans-serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
