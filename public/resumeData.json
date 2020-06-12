@@ -7,12 +7,12 @@
     "bio":"Accomplished technology leader with 6+ years of experience working for digital technology vendors, with a recent focus on streaming video. Passionate about creating delightful customer experiences and solving business challenges with technology. Roles that I have worked in include sales engineering, account management, solutions architecture, professional services, business development, and team building. Consistently recognized as a top performer in deadline-driven, fast-paced, and high-growth environments.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "mathisos1@gmail.com",
-    "phone": "+65 9083 6523",
+    "phone": "+1 (516) 509-5684",
     "address":{
-      "street":"Bukit Timah Road",
-      "city":"Singapore",
-      "state":"Singapore",
-      "zip": "589645"
+      "street":"19 Grovenor Road, Apt #1",
+      "city":"Jamaica Plain",
+      "state":"Massachusetts",
+      "zip": "02130"
     },
     "website": "//www.scottmathison.info",
     "resumedownload":"//s3.amazonaws.com/scottmathison.info/RESUME+Scott+Mathison.pdf",
@@ -52,14 +52,20 @@
     "work":[
       {
         "company":"Brightcove",
+        "title":"Senior Manager, Client Solutions",
+        "years":"November 2019 - Present",
+        "description":"Scope and sell video-centric custom solutions through for Brightcove's professional services department."
+      },
+      {
+        "company":"Brightcove",
         "title":"Head of Account Management, Asia",
-        "years":"April 2019 - Present",
+        "years":"April 2019 - October 2019",
         "description":"Lead a team of Account Managers across Mumbai and Singapore to retain customers in our portfolio and drive revenue growth within those accounts."
       },
       {
         "company":"",
         "title":"Director of Sales Engineering, Asia",
-        "years":"December 2018 - Present",
+        "years":"December 2018 - October 2019",
         "description":"Hire, coach and manage a team of Sales Engineers across offices in Mumbai and Singapore."
       },
       {
@@ -83,8 +89,8 @@
     ],
     "skills":[
       {
-        "name":"Leadership",
-        "level":"60%"
+        "name":"Team Leadership",
+        "level":"70%"
       },
       {
         "name":"HTML5",
@@ -108,11 +114,11 @@
       },
       {
         "name":"Python",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"PHP",
-        "level":"30%"
+        "level":"50%"
       }
     ]
   },
@@ -152,7 +158,7 @@
       },
       {
         "text":"Scott is world-class. He possesses both the technical acumen at Solutions Architecture level as well commercial acumen to understand how a cloud business runs to be successful. With an enviable level of calm in his toolbox, he brings a substantial amount of clarity and level-headedness to any situation. Scott reads every situation perfectly to deliver the right message, carefully crafted and always with a smile. He has a tireless work ethic and coupled with his Asia experience, is able to relate to the multiple cultures and disciplines encountered daily. A key anchor to any team, I would strongly recommend Scott as a high-caliber individual with both broad and deep experience.",
-        "user":"Ben Morrell | VP Asia at Brightcove"
+        "user":"Ben Morrell | Director, Asia Pacific at Encoding.com"
       }
     ]
   }
