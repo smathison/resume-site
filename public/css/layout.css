@@ -684,7 +684,7 @@ call-to-action .button {
    position: relative;
    background: rgba(43, 43, 43, 0.9);  
    padding: 30px;
-   border-radius: 3px;
+   border-radius: 50px 3px;
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
