@@ -51,9 +51,15 @@
     ],
     "work":[
       {
+        "company":"Circle",
+        "title":"Director of Client Solutions",
+        "years":"July 2020 - Present",
+        "description":"Hired to initiate and scale all aspects of the pre-sales and post-sales solutions engineering organization for a growing B2B SaaS fintech company."
+      },
+      {
         "company":"Brightcove",
         "title":"Senior Manager, Client Solutions",
-        "years":"November 2019 - Present",
+        "years":"November 2019 - July 2020",
         "description":"Scope and sell video-centric custom solutions through for Brightcove's professional services department."
       },
       {
