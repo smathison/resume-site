@@ -39,17 +39,7 @@
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"Boston College",
-        "degree":"B.A. Political Science",
-        "graduated":"May 2010",
-        "description":"Minor in Latin American Studies"
-      }
-    ],
-    "work":[
+  "resume":{"work":[
       {
         "company":"Circle",
         "title":"Director of Client Solutions",
@@ -128,6 +118,15 @@
       }
     ]
   },
+  "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Boston College",
+        "degree":"B.A. Political Science",
+        "graduated":"May 2010",
+        "description":"Minor in Latin American Studies"
+      }
+    ],
   "portfolio":{
     "projects": [
       {
